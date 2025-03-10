@@ -1,0 +1,3 @@
+# Open Thunar ⇁ Top menu bar ⇁ Edit ⇁ Configure custom actions ⇁ + symbol (new) ⇁ Add a name -> Command:
+
+touch .hidden && echo %N >> .hidden && thunar -q && thunar .
